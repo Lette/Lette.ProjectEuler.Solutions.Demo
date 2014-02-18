@@ -35,6 +35,9 @@
     <Reference Include="Lette.ProjectEuler.Core">
       <HintPath>..\packages\Lette.ProjectEuler.Core.0.1.5155.30697\lib\net45\Lette.ProjectEuler.Core.dll</HintPath>
     </Reference>
+    <Reference Include="Lette.ProjectEuler.Core.XUnit">
+      <HintPath>..\packages\Lette.ProjectEuler.Core.XUnit.0.1.5162.2473\lib\net451\Lette.ProjectEuler.Core.XUnit.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="xunit">
@@ -48,7 +51,6 @@
     <Compile Include="..\CommonAssemblyInfo.cs">
       <Link>Properties\CommonAssemblyInfo.cs</Link>
     </Compile>
-    <Compile Include="EulerDataAttribute.cs" />
     <Compile Include="ProjectEulerTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
