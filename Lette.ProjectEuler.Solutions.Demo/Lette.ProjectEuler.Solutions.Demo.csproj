@@ -32,12 +32,13 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Lette.ProjectEuler.Core">
-      <HintPath>..\packages\Lette.ProjectEuler.Core.0.1.5155.30697\lib\net45\Lette.ProjectEuler.Core.dll</HintPath>
+    <Reference Include="Lette.ProjectEuler.Core, Version=0.2.1.601, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Lette.ProjectEuler.Core.0.2.1\lib\net45\Lette.ProjectEuler.Core.dll</HintPath>
+      <Private>True</Private>
     </Reference>
-    <Reference Include="Lette.ProjectEuler.Math, Version=0.1.5161.38722, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\packages\Lette.ProjectEuler.Math.0.1.5161.38722\lib\net45\Lette.ProjectEuler.Math.dll</HintPath>
+    <Reference Include="Lette.ProjectEuler.Math, Version=0.2.0.41434, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Lette.ProjectEuler.Math.0.2.0\lib\net45\Lette.ProjectEuler.Math.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
