@@ -23,7 +23,7 @@ namespace Lette.ProjectEuler.Solutions.Demo
 
 /*
 
-Exampel up to 10:
+Example up to 10:
 
 To  Factors  GroupBy    SelectMany  GroupBy                           OrderBy-Count                     Select-Last  SelectMany  Aggregate
 
