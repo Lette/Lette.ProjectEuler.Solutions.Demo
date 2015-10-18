@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.30110.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{31069B3D-3C19-4898-B927-5EE7D7E27BE8}"
 	ProjectSection(SolutionItems) = preProject
@@ -11,13 +11,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lette.ProjectEuler.Solutions.Demo", "Lette.ProjectEuler.Solutions.Demo\Lette.ProjectEuler.Solutions.Demo.csproj", "{3F1D15AD-C80B-4D81-85B8-D8A60E65D6BC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lette.ProjectEuler.Solutions.Demo.Tests", "Lette.ProjectEuler.Solutions.Demo.Tests\Lette.ProjectEuler.Solutions.Demo.Tests.csproj", "{306B295F-80D3-4D90-B154-760645E99C2B}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{FFA5B162-9205-4BA5-A43D-C18526AFEBBD}"
-	ProjectSection(SolutionItems) = preProject
-		.nuget\NuGet.Config = .nuget\NuGet.Config
-		.nuget\NuGet.exe = .nuget\NuGet.exe
-		.nuget\NuGet.targets = .nuget\NuGet.targets
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
