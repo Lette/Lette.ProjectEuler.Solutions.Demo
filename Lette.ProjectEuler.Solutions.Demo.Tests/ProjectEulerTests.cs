@@ -1,6 +1,5 @@
 ﻿using Lette.ProjectEuler.Core.XUnit;
 using Xunit;
-using Xunit.Extensions;
 
 namespace Lette.ProjectEuler.Solutions.Demo.Tests
 {
